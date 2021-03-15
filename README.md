@@ -22,7 +22,7 @@ News channel as at [Voha Updates](https://t.me/VohaUpdate)
 1. Thanks for [Tsunayoshi Sawada](https://github.com/TsunayoshiSawada?) because this bot is the base of [saitamarobot](https://github.com/AnimeKaizoku/SaitamaRobot)
 2. And thanks for [Paul](https://github/paulsonoflars) Because he made [Marie](https://github.com/PaulSonOfLars/tgbot)
 
-## How to setup/deploy.
+## How to setup/deploy.dnjxjdjdjfuc
 
 ### Read these notes carefully before proceeding 
  - Edit any mentions of @VohaUnion to your own support chat
