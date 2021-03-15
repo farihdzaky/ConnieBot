@@ -6,7 +6,7 @@ Jdjdjdjxj
   
   [![Deploy](https://telegra.ph/file/c741342e89d2a417a717e.jpg)](https://heroku.com/deploy?template=https://github.com/Xlaaf/KrustyRobot.git)
 
-
+Dmmxkxkxkx
 ## DONATE
 https://saweria.co/Xlaaf
 https://paypal.me/xlaaf
